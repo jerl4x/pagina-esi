@@ -1,0 +1,56 @@
+/*=header=*/
+header{
+    background-image: url(banner2.jpg);
+}
+/*=barra de navegación=*/
+#navbar{
+    background-image: url(banner2.jpg);
+}
+/*=slider=*/
+
+#slider{
+    max-height: 49rem;
+   
+}
+#contenido{
+    background-image: url(banner2.jpg);
+    height: 100%;
+    background-size: cover;
+}
+#c1{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#lista{
+    background-image: url(banner2.jpg);
+}
+#h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.acordion-item{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/*footer*/
+footer{
+    background-color: palevioletred;
+    border: solid black;
+}
+.img-fluid{
+    max-height: 800px;
+    max-width: 800px;
+    float: left;
+    bottom: 100%;
+    
+}
+body{
+    height: 100%;
+}
+.carousel {
+    width: 60%;
+    height: 700px;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-image: url(banner2.jpg);
+    background-size: cover;
+  }
